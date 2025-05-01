@@ -108,13 +108,15 @@ README.md          # Project documentation
 ## ✍️ Author
 Yara Khattab
 
-📧 Email: yarakhattab16@gmail.com
 
-🔗 GitHub: github.com/yarakhattab
+📧 yarakhattab16@gmail.com
+
+
+🔗 GitHub: @yarakhattab
 
 Saja Asfour
 
-🏠 GitHub: SajaAsfour
 
+🔗 GitHub: @SajaAsfour
 
 
