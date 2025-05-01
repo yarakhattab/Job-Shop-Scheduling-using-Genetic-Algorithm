@@ -105,6 +105,12 @@ README.md          # Project documentation
 - Python Programming
 
 ---
+## ✍️ Author
+Yara Khattab
+
+📧 Email: yarakhattab16@gmail.com
+
+🔗 GitHub: github.com/yarakhattab
 
 
 
